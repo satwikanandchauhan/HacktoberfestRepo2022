@@ -1,6 +1,6 @@
 # HacktoberfestRepo2022
 
-## 👉 Add any project or algorithm in any programming language (C/C++/Python)
+## 👉 Add any project or algorithm in any programming language
 - 🪄 C
 - 🪄 C++
 - 🪄 Python
